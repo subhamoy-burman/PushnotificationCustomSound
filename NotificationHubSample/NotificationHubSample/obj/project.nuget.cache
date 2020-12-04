@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8S0Z2Un8mClsvnmV+JdOh2ArblJc5bqoZ9qwg49R4hYQGHMIywDUwMhM/+5PgGkGcrSQQL8c6whnN3p3hoIJYQ==",
+  "success": true,
+  "projectFilePath": "/Users/imac01/Xamarin_Forms_Projects/AzureNotificationHub/NotificationHubSample/NotificationHubSample/NotificationHubSample.csproj",
+  "expectedPackageFiles": [
+    "/Users/imac01/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/imac01/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/imac01/.nuget/packages/xamarin.forms/4.8.0.1687/xamarin.forms.4.8.0.1687.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{92198748-B83C-4393-8AC8-EF6978BD7FDC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotificationHubSample/NotificationHubSample.Android/FirebaseService.cs">
+    <Files>
+      <File FileName="NotificationHubSample/NotificationHubSample.Android/MainActivity.cs" Line="47" Column="32" />
+      <File FileName="NotificationHubSample/NotificationHubSample.Android/google-services.json" />
+      <File FileName="NotificationHubSample/NotificationHubSample.Android/Properties/AndroidManifest.xml" />
+      <File FileName="NotificationDispatcher/DispatcherConstants.cs" />
+      <File FileName="NotificationHubSample/NotificationHubSample/AppConstants.cs" />
+      <File FileName="NotificationHubSample/NotificationHubSample.Android/FirebaseService.cs" Line="51" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotificationHubSample" expanded="True">
+            <Node name="NotificationDispatcher" expanded="True" />
+            <Node name="NotificationHubSample" expanded="True" />
+            <Node name="NotificationHubSample.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Raw" expanded="True" />
+              </Node>
+              <Node name="FirebaseService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/imac01/Xamarin_Forms_Projects/AzureNotificationHub/NotificationHubSample/NotificationHubSample.Android/FirebaseService.cs" relfile="NotificationHubSample/NotificationHubSample.Android/FirebaseService.cs" line="52" column="1" />
+      <Breakpoint file="/Users/imac01/Xamarin_Forms_Projects/AzureNotificationHub/NotificationHubSample/NotificationHubSample.Android/MainActivity.cs" relfile="NotificationHubSample/NotificationHubSample.Android/MainActivity.cs" line="88" column="1" />
+      <Breakpoint file="/Users/imac01/Xamarin_Forms_Projects/AzureNotificationHub/NotificationHubSample/NotificationHubSample.Android/FirebaseService.cs" relfile="NotificationHubSample/NotificationHubSample.Android/FirebaseService.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NotificationHubSample.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MultiItemStartupConfigurations />
+</Properties>

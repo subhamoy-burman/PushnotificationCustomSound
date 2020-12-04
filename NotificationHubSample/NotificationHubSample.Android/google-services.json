@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "125492532650",
+        "firebase_url": "https://ubesafe-sqa.firebaseio.com",
+        "project_id": "ubesafe-sqa",
+        "storage_bucket": "ubesafe-sqa.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:125492532650:android:f8f2953b0bf45d26af87d3",
+                "android_client_info": {
+                    "package_name": "com.mol.staffsafety_mobile"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "125492532650-ehcsh5n6m428t7ljr9qitgtgdv47i77j.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyA7c1jVpyk1YRdUeyW6f9EcsXwoGo33ymQ"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "125492532650-ehcsh5n6m428t7ljr9qitgtgdv47i77j.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

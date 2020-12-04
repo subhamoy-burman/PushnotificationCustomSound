@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zS7pdZYmO36RlXs2zsLghXEf12oZ1JjVH8tYgFat9Da7rR+eA0nvlvF7qJWcQxcfm7gKxX0KCL4E/kJr3HrVRw==",
+  "success": true,
+  "projectFilePath": "/Users/imac01/Xamarin_Forms_Projects/AzureNotificationHub/NotificationHubSample/NotificationHubSample.iOS/NotificationHubSample.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/imac01/.nuget/packages/xamarin.azure.notificationhubs.ios/2.0.4/xamarin.azure.notificationhubs.ios.2.0.4.nupkg.sha512",
+    "/Users/imac01/.nuget/packages/xamarin.forms/4.8.0.1687/xamarin.forms.4.8.0.1687.nupkg.sha512"
+  ],
+  "logs": []
+}
